@@ -18,4 +18,11 @@ describe("addition", () => {
         // test
         done()
     })
+
+
+    it("Should return 4", done => {
+        assert.equal((2+1), 4)
+        // test
+        done()
+    })
 })
