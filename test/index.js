@@ -9,7 +9,7 @@ describe("addition", () => {
 
     it("Should return 50", done => {
         assert.equal((49+2), 6)
-        // test
+        // test goo goog gah gah
         done()
     })
 })
