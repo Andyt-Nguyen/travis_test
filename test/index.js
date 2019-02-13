@@ -26,6 +26,11 @@ describe("addition", () => {
         done()
     })
 
+	it("asdf", done=> {
+		assert.equal((3+1), 23)
+		done()
+	})
+
 
     it("Should return 12", done => {
         assert.equal((2+12), 14)
