@@ -6,4 +6,10 @@ describe("addition", () => {
         // test
         done()
     })
+
+    it("Should return 50", done => {
+        assert((49+2), 6)
+        // test
+        done()
+    })
 })
