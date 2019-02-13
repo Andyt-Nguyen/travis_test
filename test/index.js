@@ -12,4 +12,10 @@ describe("addition", () => {
         // test goo goog gah gah
         done()
     })
+    
+    it("Should return 99", done => {
+        assert.equal((2+2), 6)
+        // test
+        done()
+    })
 })
